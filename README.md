@@ -1,12 +1,10 @@
 
-# 👨🏻‍💻 Bruno C.
+## 👨‍💻 Sobre mim
 
-# Desenvolvedor Backend Java
+Sou **Bruno Costa**, desenvolvedor backend com foco no ecossistema **Java**, construindo aplicações com boas práticas de programação, **arquitetura limpa** e **APIs REST**. Busco constantemente aprimorar meus conhecimentos para construir soluções escaláveis, seguras e de alta qualidade.
 
-Me chamo **Bruno**, sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por desenvolvimento de software.
-
-Tenho como foco o ecossistema **Java**, desenvolvendo aplicações backend com boas práticas de programação, arquitetura limpa e APIs REST. Busco constantemente aprimorar meus conhecimentos para construir soluções escaláveis, seguras e de alta qualidade.
-
+- 🎯 Foco: **Spring Boot · Clean Architecture · APIs REST**
+- 💬 Fale comigo sobre: **Java, Spring Boot, JPA, boas práticas**
   
 <div align="center">
 
@@ -25,15 +23,6 @@ Tenho como foco o ecossistema **Java**, desenvolvendo aplicações backend com b
 <img src="https://komarev.com/ghpvc/?username=BrunoCosta-0&style=for-the-badge&color=blueviolet&label=Visitas" />
 
 </div>
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou **Bruno Costa**, desenvolvedor backend com foco no ecossistema **Java**, construindo aplicações com boas práticas de programação, **arquitetura limpa** e **APIs REST**. Busco constantemente aprimorar meus conhecimentos para construir soluções escaláveis, seguras e de alta qualidade.
-
-- 🎯 Foco: **Spring Boot · Clean Architecture · APIs REST**
-- 💬 Fale comigo sobre: **Java, Spring Boot, JPA, boas práticas**
 
 ---
 
