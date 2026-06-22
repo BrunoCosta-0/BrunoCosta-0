@@ -46,8 +46,6 @@ Sou **Bruno Costa**, desenvolvedor backend com foco no ecossistema **Java**, con
 
 ## 📊 Estatísticas
 
-## 📊 Estatísticas
-
 <div align="center">
 
 | Stats | Streak |
