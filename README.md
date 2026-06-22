@@ -58,7 +58,6 @@ Sou **Bruno Costa**, desenvolvedor backend com foco no ecossistema **Java**, con
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCosta-0&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true&card_width=500" />
 
 </div>
----
 
 ## 🐍 Contribuições
 
