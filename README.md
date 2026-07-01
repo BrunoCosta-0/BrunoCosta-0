@@ -48,9 +48,9 @@ Sou **Bruno Costa**, desenvolvedor backend com foco no ecossistema **Java**, con
 
 | Stats | Streak |
 |-------|--------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=BrunoCosta-0&show_icons=true&theme=dracula&count_private=true&hide_border=true&cache_seconds=1) | ![Streak](https://streak-stats.demolab.com?user=BrunoCosta-0&theme=dracula&hide_border=true&locale=pt_BR) |
+| ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=BrunoCosta-0&show_icons=true&theme=dracula&count_private=true&hide_border=true&cache_seconds=1) | ![Streak](https://streak-stats.demolab.com?user=BrunoCosta-0&theme=dracula&hide_border=true&locale=pt_BR) |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCosta-0&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true&card_width=300&cache_seconds=1" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrunoCosta-0&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true&card_width=300&cache_seconds=1" />
 
 </div>
 
